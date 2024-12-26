@@ -1,0 +1,20 @@
+{
+    [
+        "users":"Bhavya",
+        "email":"b@g",
+        "password":"1223"
+
+    ],
+    [
+        "users":"Bob",
+        "email":"b@a",
+        "password":"1323"
+
+    ],
+    [
+        "users":"alice",
+        "email":"b@d",
+        "password":"223"
+
+    ]
+}
